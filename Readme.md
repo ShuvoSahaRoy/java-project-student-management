@@ -1,4 +1,4 @@
-# JAVA swing project: University Admission Processes Desktop APP
+# JAVA swing project: Student Management Desktop APP
 ![image info](project_images/ds.svg)
 <!-- ![](https://img.shields.io/github/repo-size/itsvinayak/weather-app.svg?label=Repo%20size&style=flat-square)&nbsp; -->
 ![Made with JAVA](http://ForTheBadge.com/images/badges/made-with-JAVA.svg)
@@ -50,7 +50,7 @@ You check this on your side. But You need to add two jar file. Make sure your my
 
 Don't forget to resolve those issue by adding jar files.
 
-# <a href="" ><strong>Project link</strong> </a>
+# <a href="https://github.com/ShuvoSahaRoy/java-project-student-management" ><strong>Project link</strong> </a>
 
 ---
 
